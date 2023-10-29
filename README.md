@@ -1,2 +1,2 @@
 # swiggy_clone
-https://avinashkallingal.github.io/swiggy_clone/
+https://avinashkallingal.github.io/meesho_clone/
